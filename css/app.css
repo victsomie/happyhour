@@ -28,3 +28,14 @@
 
 
 
+
+/*------I have modified this class from foundation-----*/
+.align-middle {
+    display: table;
+}
+.align-middle .columns {
+    display: table-cell;
+    vertical-align: middle;
+    float: none !important
+}
+
