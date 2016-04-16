@@ -1,0 +1,23 @@
+.container{
+    width: 100%;
+    background-position: center;
+}
+
+.container-hero{
+    background-image: url(/assets/backgrounds/landing.jpg)
+}
+
+
+
+/*----Style second section-----*/
+.party{
+    background-color: darkorange;
+}
+
+
+.meals>div:nth-child(2){
+    background: red
+}
+
+
+
