@@ -16,7 +16,14 @@
 
 
 .meals>div:nth-child(2){
-    background: red
+    background-image: url(/assets/foodtop/breakfast.jpg);
+}
+.meals>div:nth-child(3){
+    background-image: url(/assets/foodtop/lunch.jpg);
+}
+
+.meals>div:nth-child(4){
+    background-image: url(/assets/foodtop/dinner.jpg);
 }
 
 
